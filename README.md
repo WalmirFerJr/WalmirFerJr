@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula" />
     </td>
     <td align="left">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&rank_icon=github" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&rank_icon=github" />
     </td>
   </tr>
 </table>
