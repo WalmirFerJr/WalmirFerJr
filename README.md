@@ -3,14 +3,32 @@
 <!--
 **WalmirFerJr/WalmirFerJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá👋
+
+### Eu sou Walmir Fernandes :)
+
+- 📍 São Paulo, Brasil
+- 📚 Bacharel em Sistemas de Informação @ USP
+- 🎓 Análise de sistemas @ Etec
+- 💻 Python • Dados • C • WebDev • Algoritmos e Estrutura de Dados • Engenharia de Software
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/WalmirFerJr/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula)](https://github.com/WalmirFerJr/github-readme-stats)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula" />
+    </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&rank_icon=github" />
+    </td>
+  </tr>
+</table>
+
+<a href="https://www.linkedin.com/in/walmir-fernandes-070076236/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
