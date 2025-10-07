@@ -13,10 +13,6 @@ Here are some ideas to get you started: -->
 - 📚 Bacharel em Sistemas de Informação @ USP
 - 🎓 Análise de sistemas @ Etec
 - 💻 Python • Dados • C • WebDev • Algoritmos e Estrutura de Dados • Engenharia de Software
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/WalmirFerJr/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula)](https://github.com/WalmirFerJr/github-readme-stats)
 
 <table align="center">
   <tr>
