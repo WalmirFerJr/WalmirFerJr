@@ -14,17 +14,17 @@ Here are some ideas to get you started: -->
 - 🎓 Análise de sistemas @ Etec
 - 💻 Python • Dados • C • WebDev • Algoritmos e Estrutura de Dados • Engenharia de Software
 
-<a href="https://www.linkedin.com/in/walmir-fernandes-070076236/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<table align="center">
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula" />
     </td>
-    <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&rank_icon=github" />
+    <td align="left">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&rank_icon=github" />
     </td>
   </tr>
 </table>
+
+<a href="https://www.linkedin.com/in/walmir-fernandes-070076236/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
