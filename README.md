@@ -12,10 +12,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=tokyonight" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=tokyonight" /
     </td>
     <td align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=tokyonight&rank_icon=github" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=tokyonight&rank_icon=github" /
     </td>
   </tr>
 </table>
