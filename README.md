@@ -5,7 +5,7 @@
 - 📍 São Paulo, Brasil
 - 📚 Bacharel em Sistemas de Informação @ USP
 - 🎓 Análise de Sistemas @ Etec
-- 💻 WebDev • Python • SQL • Django • React.js • C • Java • Engenharia de Software
+- 💻 WebDev • Python • SQL • Django • Javascript • C • Java
 <!--
 ---
 
