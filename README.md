@@ -104,25 +104,11 @@
 <br>
 
 <div align="center">
-  <h2>📊 Atividade Global</h2>
-  
-  <br>
 
-  <p>
-    <a href="https://github.com/walmirferjr">
-      <img src="https://img.shields.io/github/commits-last-year/walmirferjr/walmirferjr?style=for-the-badge&logo=github&color=282a36&labelColor=bd93f9&label=COMMITS%20(ANO)"/>
-    </a>
-    <br>
-    <a href="https://github.com/walmirferjr">
-      <img src="https://img.shields.io/github/languages/count/walmirferjr/walmirferjr?style=for-the-badge&logo=code&color=282a36&labelColor=ff79c6&label=TOTAL%20DE%20LINGUAGENS"/>
-    </a>
-    <br>
-    <a href="https://github.com/walmirferjr">
-      <img src="https://img.shields.io/github/followers/walmirferjr?style=for-the-badge&logo=github&color=282a36&labelColor=8be9fd&label=SEGUIDORES"/>
-    </a>
-  </p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walmirferjr&theme=github_dark"/>
 
 </div>
+
 <br>
 
 ---
