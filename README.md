@@ -97,13 +97,15 @@
   <br>
   
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=dracula&langs_count=8"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=tokyonight&hide_border=true
+"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walmirferjr&theme=dracula&date_format=d%20M%20Y"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=walmirferjr&theme=tokyonight&hide_border=true
+"/>
   </p>
 </div>
 
