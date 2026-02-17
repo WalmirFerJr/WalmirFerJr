@@ -93,20 +93,23 @@
 <br>
 
 <div align="center">
-  <h2>📈 Estatísticas do GitHub</h2>
-  <br>
+  <h2>📈 Métricas & Atividade</h2>
   
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=tokyonight&hide_border=true
-"/>
-  </p>
-  <p>
-    <img align="center" src="https://streak-stats.demolab.com?user=walmirferjr&theme=tokyonight&hide_border=true
-"/>
-  </p>
+  <br>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=dracula&hide_border=true&bg_color=282a36"/>
+  </div>
+  
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walmirferjr&theme=dracula&hide_border=true&date_format=d%20M%20Y&background=282a36"/>
+
+  <br><br>
+  
+  <img src="https://github.com/walmirferjr/walmirferjr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
 </div>
 
 <br>
