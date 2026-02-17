@@ -49,8 +49,8 @@
             <br>Django
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-            <br>C
+      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+      <br>C
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
