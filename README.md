@@ -1,85 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f2027,100:203a43&text=Walmir%20Fernandes&fontSize=45&fontAlignY=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,100:2c5364&text=Walmir%20Fernandes&fontSize=45&fontAlignY=38&fontColor=ffffff"/>
 
-<h3>Backend Developer in Training • Software Engineering Student @ USP</h3>
+<h3>Software Engineering Student @ USP • Backend Developer in Training</h3>
 
-São Paulo, Brasil
-Técnico em Análise de Sistemas — Etec
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+APIs;Studying+Data+Structures+%26+Algorithms;Learning+System+Design;Interested+in+Backend+and+Distributed+Systems"/>
+
+<br>
+
+📍 São Paulo, Brasil
+🎓 Técnico em Análise de Sistemas — Etec
+
+<br>
+
+<a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:walmir.jr.2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Who am I?
+## 👨‍💻 About Me
 
-Estudante de Sistemas de Informação na USP focado em **desenvolvimento backend e engenharia de software**.
+Estudante de Sistemas de Informação na USP focado em **backend e engenharia de software**.
 
-Meu objetivo é atuar em ambientes de produção reais, trabalhando com APIs, bancos de dados e sistemas escaláveis.
-Busco aprender não apenas linguagens, mas **como sistemas de verdade são construídos, versionados e mantidos em equipe**.
+Busco aprender não apenas linguagens, mas como sistemas reais são construídos, versionados e mantidos em produção.
+Tenho interesse especial em **APIs, bancos de dados, arquitetura de software e sistemas escaláveis**.
 
-Atualmente estou estudando:
+Atualmente aprofundando:
 
 * Estruturas de Dados e Algoritmos
-* Arquitetura de Software
 * APIs REST
-* Banco de Dados
-* Containers e Deploy
+* Modelagem de Banco de Dados
+* Docker e Deploy
+* Boas práticas de versionamento
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### Linguagens
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
 </p>
 
-### Backend & Frontend
+### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,django,react,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,django,react,tailwind"/>
 </p>
 
 ### Banco de Dados
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
 </p>
 
-### Infraestrutura & Ferramentas
+### DevOps & Ferramentas
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github"/>
 </p>
 
 ---
 
-## 🔧 O que eu sei fazer
+## 🔧 Competências Técnicas
 
 * Construção de APIs RESTful
 * CRUD completo com banco de dados
-* Autenticação com tokens (JWT)
+* Autenticação com JWT
 * Versionamento profissional com Git
-* Modelagem de banco relacional e NoSQL
-* Deploy de aplicações
+* Modelagem relacional e NoSQL
+* Deploy em cloud
 * Containerização com Docker
-* Debug e leitura de código legado
+* Debug e manutenção de código
 
 ---
 
-## 📌 Experiência prática
+## 🚀 Experiência prática relevante
 
-**Bot de automação para canal acadêmico (Telegram)**
+### 🤖 Bot de automação para canal acadêmico (Telegram)
 
-* Sistema em Python utilizado por +500 usuários
-* Envio automatizado de avisos e prazos
-* Agendamento de notificações
-* Hospedado em cloud
+* Sistema em Python utilizado por **+500 usuários**
+* Envio automático de avisos e prazos
+* Sistema de agendamento de notificações
+* Hospedagem em cloud
 * Gerenciamento seguro de tokens
 
-Esse projeto foi desenvolvido pensando em um cenário real: sistema que não pode parar e precisa rodar 24/7.
+> Projeto desenvolvido para rodar continuamente em produção (24/7), com foco em confiabilidade.
 
 ---
 
@@ -94,24 +107,18 @@ Esse projeto foi desenvolvido pensando em um cenário real: sistema que não pod
 
 ---
 
-## 📫 Contato
+## 📌 Interesses atuais
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:walmir.jr.2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</div>
+* Backend Engineering
+* Sistemas distribuídos
+* Banco de dados
+* Arquitetura de software
+* Mercado financeiro e fintechs
 
 ---
 
 <div align="center">
 
-Aberto a oportunidades de estágio em desenvolvimento de software.
+⭐ Aberto a oportunidades de estágio em desenvolvimento de software
 
 </div>
