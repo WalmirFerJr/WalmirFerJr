@@ -42,7 +42,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
       <br>C
     </td>
     <td align="center" width="90">
