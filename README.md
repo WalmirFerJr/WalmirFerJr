@@ -31,100 +31,74 @@
 </div>
 
 <table align="center">
-  <tr>
-    <table align="center">
-
-  <tr>
-
-```
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
-  <br>Java
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
-  <br>Python
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
-  <br>Spring
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/>
-  <br>Django
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
-  <br>Postgres
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-  <br>MySQL
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=mongo" width="45" height="45" alt="MongoDB"/>
-  <br>MongoDB
-</td>
-```
-
-  </tr>
-
-  <tr>
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
-  <br>Docker
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/>
-  <br>Kubernetes
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
-  <br>AWS
-</td>
-
-<td align="center" width="90">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <br>C
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
-  <br>JavaScript
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
-  <br>React
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/>
-  <br>Angular
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
-  <br>Tailwind
-</td>
-
-<td align="center" width="90">
-  <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/>
-  <br>Firebase
-</td>
-  </tr>
-
-</table>
-
-  </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
+            <br>Java
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
+            <br>Spring
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/>
+            <br>Django
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+            <br>C
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
+            <br>Docker
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/>
+            <br>K8s
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
+            <br>AWS
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
+            <br>Postgres
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongo" width="45" height="45" alt="MongoDB"/>
+            <br>MongoDB
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
+            <br>JavaScript
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular"/>
+            <br>Angular
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
+            <br>React
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
+            <br>Tailwind
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/>
+            <br>Firebase
+        </td>
+    </tr>
 </table>
 
 <br>
