@@ -1,9 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f2027,100:203a43&text=Walmir%20Fernandes&fontSize=45&fontAlignY=35&fontColor=ffffff"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <h1>Olá, eu sou Walmir Fernandes!</h1>
+</div>
 
 <div align="center">
-  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 💻 Engenheiro de software em Formação</h3>
+  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 💻 Dev Full Stack em Formação</h3>
   <p>
     Apaixonado por criar soluções escaláveis e performáticas. Foco em Java, Python e Arquitetura de Software.
   </p>
@@ -29,19 +30,19 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="45" height="45" />
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C"/>
       <br>C
     </td>
     <td align="center" width="90">
@@ -96,13 +97,13 @@
   <br>
   
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula&langs_count=8"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=dracula&langs_count=8"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WalmirFerJr&theme=dracula&date_format=d%20M%20Y"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walmirferjr&theme=dracula&date_format=d%20M%20Y"/>
   </p>
 </div>
 
