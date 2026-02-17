@@ -104,16 +104,9 @@
 <br>
 
 <div align="center">
-  <h2>📈 Atividade</h2>
-  
+  <h2>🧩 Contribuições</h2>
   <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=dracula&hide_border=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=00000000" height="150" alt="stats graph" />
-  
-  <br><br>
-
   <img src="https://raw.githubusercontent.com/walmirferjr/walmirferjr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 </div>
 <br>
 
