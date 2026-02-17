@@ -4,13 +4,13 @@
 </div>
 
 <div align="center">
-  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 🎓 Técnico em Análise de Sistemas (Etec)💻 <br> Engenheiro de software em Formação</h3>
+  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 🎓 Técnico em Análise de Sistemas (Etec)💻</h3>
   <p>
-    Apaixonado por criar soluções escaláveis e performáticas. Foco em Java, Python e Arquitetura de Software.
+    Apaixonado por criar soluções escaláveis e performáticas.
   </p>
   
   <p>
-    📍 <b>São Paulo, Brasil</b> • 🎓 Técnico em Análise de Sistemas (Etec)
+    📍 <b>São Paulo, Brasil</b>
   </p>
 
   <a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
