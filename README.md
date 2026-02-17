@@ -103,11 +103,11 @@
 
 <br>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=walmirferjr&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/commit-activity/m/walmirferjr/walmirferjr?style=for-the-badge&color=blue&label=COMMITS"/>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walmirferjr&theme=github_dark"/>
-
-</div>
 
 <br>
 
