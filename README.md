@@ -97,18 +97,8 @@
   
   <br>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=dracula&hide_border=true&bg_color=282a36"/>
-  </div>
-  
-  <br>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=walmirferjr&theme=dracula&hide_border=true&date_format=d%20M%20Y&background=282a36"/>
 
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/walmirferjr/walmirferjr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
