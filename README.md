@@ -104,8 +104,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=walmirferjr&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/commit-activity/m/walmirferjr/walmirferjr?style=for-the-badge&color=blue&label=COMMITS"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=false&hide=issues,prs,stars&count_private=true&include_all_commits=true&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 
