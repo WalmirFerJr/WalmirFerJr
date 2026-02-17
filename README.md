@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-  <h1>Olá, sou Walmir Fernandes!</h1>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f2027,100:203a43&text=Walmir%20Fernandes&fontSize=45&fontAlignY=35&fontColor=ffffff"/>>
 
 <div align="center">
-  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 🎓 Técnico em Análise de Sistemas (Etec)</h3>
-  <p>📍 São Paulo, Brasil</p>
+  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 💻 Dev Full Stack em Formação</h3>
+  <p>
+    Apaixonado por criar soluções escaláveis e performáticas. Foco em Java, Python e Arquitetura de Software.
+  </p>
+  
+  <p>
+    📍 <b>São Paulo, Brasil</b> • 🎓 Técnico em Análise de Sistemas (Etec)
+  </p>
 
   <a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,95 +22,93 @@
 
 <br>
 
-## 👨‍💻 Sobre Mim
-
-> *"Busco aprender não apenas linguagens, mas como sistemas reais são construídos, versionados e mantidos em produção."*
-
-Sou estudante da USP com foco direcionado para **Backend** e **Engenharia de Software**. Tenho interesse genuíno em entender o ciclo de vida completo de uma aplicação, desde a arquitetura e modelagem de dados até o deploy e escalabilidade.
-
-**Atualmente estou aprofundando meus estudos em:**
-* ☕ **Java Ecosystem:** Spring Boot, JPA, Hibernate
-* 🐳 **DevOps:** Docker, Containerização e Deploy
-* 🏗️ **Arquitetura:** APIs REST, Estruturas de Dados e Algoritmos
-* 💾 **Dados:** Modelagem de Banco de Dados (SQL/NoSQL)
-
----
-
-## 🚀 Experiência Prática em Destaque
-
-### 🤖 Bot de Automação Acadêmico (Telegram)
-> *Projeto desenvolvido com foco em alta disponibilidade e confiabilidade.*
-
-Desenvolvi e mantenho um sistema utilizado ativamente por **+500 usuários** do meio acadêmico. O projeto roda continuamente em produção (24/7).
-
-* ✅ **Python:** Core da automação e lógica.
-* ✅ **Cloud:** Hospedagem e manutenção em nuvem.
-* ✅ **Features:** Envio automático de prazos, agendamento de notificações e gestão segura de tokens.
-* ✅ **Impacto:** Resolução de problemas reais de comunicação e organização para centenas de alunos.
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
-
-| Linguagens | Frameworks | Banco de Dados | DevOps & Tools |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,python,c,js" width="180"/> | <img src="https://skillicons.dev/icons?i=spring,django,react" width="140"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" width="140"/> | <img src="https://skillicons.dev/icons?i=docker,git,aws,linux" width="180"/> |
-
+  <h2>🛠️ Tech Stack & Ferramentas</h2>
 </div>
 
----
-
-## 🔧 Competências Técnicas
-
-<table>
+<table align="center">
   <tr>
-    <td valign="top" width="50%">
-      <h3>Backend & Arquitetura</h3>
-      <ul>
-        <li>✅ Construção de APIs RESTful</li>
-        <li>✅ CRUD completo e otimizado</li>
-        <li>✅ Autenticação e Segurança (JWT)</li>
-        <li>✅ Modelagem Relacional e NoSQL</li>
-        <li>✅ Estruturas de Dados e Algoritmos</li>
-      </ul>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" />
+      <br>Java
     </td>
-    <td valign="top" width="50%">
-      <h3>DevOps & Ferramentas</h3>
-      <ul>
-        <li>✅ Containerização com <b>Docker</b></li>
-        <li>✅ Versionamento profissional (Git/Flow)</li>
-        <li>✅ Deploy em Cloud</li>
-        <li>✅ Debug e manutenção de código</li>
-        <li>✅ Linux e Terminal</li>
-      </ul>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="45" height="45" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
+      <br>Spring
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/>
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongo" width="45" height="45" alt="MongoDB"/>
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
+      <br>Tailwind
     </td>
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+  <h2>📈 Estatísticas do GitHub</h2>
+  <br>
+  
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&langs_count=8"/>
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&date_format=d%20M%20Y"/>
+  </p>
+</div>
+
+<br>
+
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula&langs_count=8&hide_border=true" />
-  </p>
-</div>
-
-<br>
-
-### 📌 Interesses Atuais
-* Backend Engineering & Sistemas Distribuídos
-* Mercado Financeiro e Fintechs
-* Arquitetura de Software e Escalabilidade
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades%20de%20Estágio-success?style=for-the-badge" />
-</div>
+<p align="center">
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+</p>
