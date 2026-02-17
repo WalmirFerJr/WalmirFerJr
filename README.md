@@ -97,13 +97,13 @@
   <br>
   
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&langs_count=8"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=dracula&langs_count=8"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&date_format=d%20M%20Y"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walmirferjr&theme=dracula&date_format=d%20M%20Y"/>
   </p>
 </div>
 
