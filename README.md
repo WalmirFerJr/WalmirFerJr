@@ -1,124 +1,111 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,100:2c5364&text=Walmir%20Fernandes&fontSize=45&fontAlignY=38&fontColor=ffffff"/>
-
-<h3>Software Engineering Student @ USP • Backend Developer in Training</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+APIs;Studying+Data+Structures+%26+Algorithms;Learning+System+Design;Interested+in+Backend+and+Distributed+Systems"/>
-
-<br>
-
-📍 São Paulo, Brasil
-🎓 Técnico em Análise de Sistemas — Etec
-
-<br>
-
-<a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:walmir.jr.2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <h1>Olá, sou Walmir Fernandes!</h1>
 </div>
+
+<div align="center">
+  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 🎓 Técnico em Análise de Sistemas (Etec)</h3>
+  <p>📍 São Paulo, Brasil</p>
+
+  <a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:walmir.jr.2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+<br>
+
+## 👨‍💻 Sobre Mim
+
+> *"Busco aprender não apenas linguagens, mas como sistemas reais são construídos, versionados e mantidos em produção."*
+
+Sou estudante da USP com foco direcionado para **Backend** e **Engenharia de Software**. Tenho interesse genuíno em entender o ciclo de vida completo de uma aplicação, desde a arquitetura e modelagem de dados até o deploy e escalabilidade.
+
+**Atualmente estou aprofundando meus estudos em:**
+* ☕ **Java Ecosystem:** Spring Boot, JPA, Hibernate
+* 🐳 **DevOps:** Docker, Containerização e Deploy
+* 🏗️ **Arquitetura:** APIs REST, Estruturas de Dados e Algoritmos
+* 💾 **Dados:** Modelagem de Banco de Dados (SQL/NoSQL)
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Experiência Prática em Destaque
 
-Estudante de Sistemas de Informação na USP focado em **backend e engenharia de software**.
+### 🤖 Bot de Automação Acadêmico (Telegram)
+> *Projeto desenvolvido com foco em alta disponibilidade e confiabilidade.*
 
-Busco aprender não apenas linguagens, mas como sistemas reais são construídos, versionados e mantidos em produção.
-Tenho interesse especial em **APIs, bancos de dados, arquitetura de software e sistemas escaláveis**.
+Desenvolvi e mantenho um sistema utilizado ativamente por **+500 usuários** do meio acadêmico. O projeto roda continuamente em produção (24/7).
 
-Atualmente aprofundando:
-
-* Estruturas de Dados e Algoritmos
-* APIs REST
-* Modelagem de Banco de Dados
-* Docker e Deploy
-* Boas práticas de versionamento
+* ✅ **Python:** Core da automação e lógica.
+* ✅ **Cloud:** Hospedagem e manutenção em nuvem.
+* ✅ **Features:** Envio automático de prazos, agendamento de notificações e gestão segura de tokens.
+* ✅ **Impacto:** Resolução de problemas reais de comunicação e organização para centenas de alunos.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Linguagens
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
-</p>
+| Linguagens | Frameworks | Banco de Dados | DevOps & Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java,python,c,js" width="180"/> | <img src="https://skillicons.dev/icons?i=spring,django,react" width="140"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" width="140"/> | <img src="https://skillicons.dev/icons?i=docker,git,aws,linux" width="180"/> |
 
-### Frameworks
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,django,react,tailwind"/>
-</p>
-
-### Banco de Dados
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
-</p>
-
-### DevOps & Ferramentas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github"/>
-</p>
+</div>
 
 ---
 
 ## 🔧 Competências Técnicas
 
-* Construção de APIs RESTful
-* CRUD completo com banco de dados
-* Autenticação com JWT
-* Versionamento profissional com Git
-* Modelagem relacional e NoSQL
-* Deploy em cloud
-* Containerização com Docker
-* Debug e manutenção de código
-
----
-
-## 🚀 Experiência prática relevante
-
-### 🤖 Bot de automação para canal acadêmico (Telegram)
-
-* Sistema em Python utilizado por **+500 usuários**
-* Envio automático de avisos e prazos
-* Sistema de agendamento de notificações
-* Hospedagem em cloud
-* Gerenciamento seguro de tokens
-
-> Projeto desenvolvido para rodar continuamente em produção (24/7), com foco em confiabilidade.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Backend & Arquitetura</h3>
+      <ul>
+        <li>✅ Construção de APIs RESTful</li>
+        <li>✅ CRUD completo e otimizado</li>
+        <li>✅ Autenticação e Segurança (JWT)</li>
+        <li>✅ Modelagem Relacional e NoSQL</li>
+        <li>✅ Estruturas de Dados e Algoritmos</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>DevOps & Ferramentas</h3>
+      <ul>
+        <li>✅ Containerização com <b>Docker</b></li>
+        <li>✅ Versionamento profissional (Git/Flow)</li>
+        <li>✅ Deploy em Cloud</li>
+        <li>✅ Debug e manutenção de código</li>
+        <li>✅ Linux e Terminal</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=walmir-fernandes&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmir-fernandes&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula&langs_count=8&hide_border=true" />
+  </p>
 </div>
 
----
+<br>
 
-## 📌 Interesses atuais
+### 📌 Interesses Atuais
+* Backend Engineering & Sistemas Distribuídos
+* Mercado Financeiro e Fintechs
+* Arquitetura de Software e Escalabilidade
 
-* Backend Engineering
-* Sistemas distribuídos
-* Banco de dados
-* Arquitetura de software
-* Mercado financeiro e fintechs
-
----
+<br>
 
 <div align="center">
-
-⭐ Aberto a oportunidades de estágio em desenvolvimento de software
-
+  <img src="https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades%20de%20Estágio-success?style=for-the-badge" />
 </div>
