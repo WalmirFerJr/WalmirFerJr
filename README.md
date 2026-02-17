@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 🎓 Técnico em Análise de Sistemas (Etec)💻</h3>
+  <h3>🎓 Bacharelando em Sistemas de Informação na USP <br> 🎓 Técnico em Análise de Sistemas (Etec)</h3>
   <p>
     Apaixonado por criar soluções escaláveis e performáticas.
   </p>
