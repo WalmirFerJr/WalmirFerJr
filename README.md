@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 💻 Dev Full Stack em Formação</h3>
+  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 🎓 Técnico em Análise de Sistemas (Etec)💻 <br> Engenheiro de software em Formação</h3>
   <p>
     Apaixonado por criar soluções escaláveis e performáticas. Foco em Java, Python e Arquitetura de Software.
   </p>
