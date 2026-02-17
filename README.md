@@ -1,112 +1,117 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
-  <h1>Olá, eu sou Walmir Fernandes!</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f2027,100:203a43&text=Walmir%20Fernandes&fontSize=45&fontAlignY=35&fontColor=ffffff"/>
+
+<h3>Backend Developer in Training • Software Engineering Student @ USP</h3>
+
+São Paulo, Brasil
+Técnico em Análise de Sistemas — Etec
+
 </div>
-
-<div align="center">
-  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 💻 Dev Full Stack em Formação</h3>
-  <p>
-    Apaixonado por criar soluções escaláveis e performáticas. Foco em Java, Python e Arquitetura de Software.
-  </p>
-  
-  <p>
-    📍 <b>São Paulo, Brasil</b> • 🎓 Técnico em Análise de Sistemas (Etec)
-  </p>
-
-  <a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:walmir.jr.2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🛠️ Tech Stack & Ferramentas</h2>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="45" height="45" />
-      <br>C
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/>
-      <br>Spring
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/>
-      <br>Django
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
-      <br>Postgres
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongo" width="45" height="45" alt="MongoDB"/>
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/>
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/>
-      <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/>
-      <br>Tailwind
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <h2>📈 Estatísticas do GitHub</h2>
-  <br>
-  
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=walmirferjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmirferjr&layout=compact&theme=dracula&langs_count=8"/>
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walmirferjr&theme=dracula&date_format=d%20M%20Y"/>
-  </p>
-</div>
-
-<br>
 
 ---
+
+## 👨‍💻 Who am I?
+
+Estudante de Sistemas de Informação na USP focado em **desenvolvimento backend e engenharia de software**.
+
+Meu objetivo é atuar em ambientes de produção reais, trabalhando com APIs, bancos de dados e sistemas escaláveis.
+Busco aprender não apenas linguagens, mas **como sistemas de verdade são construídos, versionados e mantidos em equipe**.
+
+Atualmente estou estudando:
+
+* Estruturas de Dados e Algoritmos
+* Arquitetura de Software
+* APIs REST
+* Banco de Dados
+* Containers e Deploy
+
+---
+
+## 🧰 Tech Stack
+
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### Backend & Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,django,react,tailwind" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
+
+### Infraestrutura & Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
+</p>
+
+---
+
+## 🔧 O que eu sei fazer
+
+* Construção de APIs RESTful
+* CRUD completo com banco de dados
+* Autenticação com tokens (JWT)
+* Versionamento profissional com Git
+* Modelagem de banco relacional e NoSQL
+* Deploy de aplicações
+* Containerização com Docker
+* Debug e leitura de código legado
+
+---
+
+## 📌 Experiência prática
+
+**Bot de automação para canal acadêmico (Telegram)**
+
+* Sistema em Python utilizado por +500 usuários
+* Envio automatizado de avisos e prazos
+* Agendamento de notificações
+* Hospedado em cloud
+* Gerenciamento seguro de tokens
+
+Esse projeto foi desenvolvido pensando em um cenário real: sistema que não pode parar e precisa rodar 24/7.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=walmir-fernandes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walmir-fernandes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/walmir-fernandes-070076236/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:walmir.jr.2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+Aberto a oportunidades de estágio em desenvolvimento de software.
+
+</div>
