@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f2027,100:203a43&text=Walmir%20Fernandes&fontSize=45&fontAlignY=35&fontColor=ffffff"/>>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f2027,100:203a43&text=Walmir%20Fernandes&fontSize=45&fontAlignY=35&fontColor=ffffff"/>
 
 <div align="center">
-  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 💻 Dev Full Stack em Formação</h3>
+  <h3>🎓 Bacharelando em Sistemas de Informação na USP | 💻 Engenheiro de software em Formação</h3>
   <p>
     Apaixonado por criar soluções escaláveis e performáticas. Foco em Java, Python e Arquitetura de Software.
   </p>
@@ -96,19 +96,16 @@
   <br>
   
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dracula&langs_count=8"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalmirFerJr&layout=compact&theme=dracula&langs_count=8"/>
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dracula&date_format=d%20M%20Y"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WalmirFerJr&theme=dracula&date_format=d%20M%20Y"/>
   </p>
 </div>
 
 <br>
 
 ---
-<p align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
-</p>
