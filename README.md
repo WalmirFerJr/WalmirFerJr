@@ -101,13 +101,11 @@
     </tr>
 </table>
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=WalmirFerJr&show_icons=false&hide=issues,prs,stars&count_private=true&include_all_commits=true&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walmirferjr&theme=github_dark"/>
 
+</div>
 
-<br>
 
 ---
