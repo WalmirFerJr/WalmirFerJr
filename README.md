@@ -104,12 +104,14 @@
 <br>
 
 <div align="center">
-  <h2>📈 Métricas & Atividade</h2>
+  <h2>📈 Métricas</h2>
   
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walmirferjr&theme=dracula&hide_border=true&date_format=d%20M%20Y&background=282a36"/>
-
+  <p>
+    <img src="https://img.shields.io/badge/Commits_em_2026-350+-6DB33F?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Total_Contribuições-1200+-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Anos_de_Código-3-purple?style=for-the-badge" />
+  </p>
+</div>
   
 </div>
 
