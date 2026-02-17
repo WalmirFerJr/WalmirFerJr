@@ -108,7 +108,7 @@
 
   <br><br>
   
-  <img src="https://github.com/walmirferjr/walmirferjr/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/walmirferjr/walmirferjr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
